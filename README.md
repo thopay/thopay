@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Web3, Solidity, ARM**
 
-- 👨‍💻 Some of my favoriate projects are available at [https://thopay.dev/](https://thopay.dev/)
+- 👨‍💻 Some of my favoriate projects are available at [thopay.dev](https://thopay.dev/)
 
 - 💬 Please feel free to ask me about **JavaScript, React, UI/UX Design, or my Obsidian vault**
 
