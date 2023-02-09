@@ -1,3 +1,4 @@
+<p align="center"> <img src="https://user-images.githubusercontent.com/60588709/217727977-d34ad295-c37e-46d1-bc3b-a720ffdd492b.gif" alt="Patrick" height="150"> </p>
 <h1 align="center">👋 Hi there, I'm Thomas</h1>
 <h3 align="center">I'm a full stack developer currently attending Iowa State University</h3>
 
@@ -16,7 +17,6 @@
 - 📫 You can reach me at **me@thopay.dev** or on Discord at **thom#9999**
 
 - ⚡ Fun Fact: **I am currently building a second brain with Obsidian**
-
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thopay&show_icons=true&locale=en&layout=compact" alt="thopay" /></p>
 
