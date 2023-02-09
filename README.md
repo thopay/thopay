@@ -5,6 +5,10 @@
 
 <p align="center"> <a align="center" href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thopay&no-frame=true&theme=onedark&title=Joined2020,Commits,Repositories" alt="thopay" /></a> </p>
 
+<p align="center">
+  [![trophy]([https://github-profile-trophy.vercel.app/?username=ryo-ma](https://github-profile-trophy.vercel.app/?username=thopay&no-frame=true&theme=onedark&title=Joined2020,Commits,Repositories))](https://github.com/ryo-ma/github-profile-trophy)
+</p>
+
 - 👷 I’m currently working on **the TREND Fashion Magazine Blog**
 
 - 🌱 I’m currently learning **Web3, Solidity, ARM**
