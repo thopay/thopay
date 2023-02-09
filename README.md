@@ -5,7 +5,7 @@
 
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=thopay&no-frame=true&theme=onedark&title=Joined2020,Commits,Repositories,Stars,Followers,Issues" alt="thopay" /></p>
 
-- 👷 I’m currently working on **the TREND Fashion Magazine Blog**
+- 👷 I’m currently working on the **TREND Fashion Magazine Blog**
 
 - 🌱 I’m currently learning **Web3, Solidity, ARM**
 
