@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi there, I'm Thomas</h1>
-<h3 align="center">A full stack developer currently attending Iowa State University</h3>
+<h3 align="center">I'm a full stack developer currently attending Iowa State University</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=thopay&label=Profile%20views&color=0e75b6&style=flat" alt="thopay" /> </p>
 
