@@ -8,7 +8,7 @@
 
 - 👷 I’m currently working on the **TREND Fashion Magazine Blog**
 
-- 🌱 I’m currently learning **Web3, Solidity, ARM**
+- 🌱 I’m currently learning **Web3, Solidity, and ARM Assembly**
 
 - 👨‍💻 Some of my favoriate projects are available at [thopay.dev](https://thopay.dev/)
 
