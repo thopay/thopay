@@ -16,6 +16,8 @@
 
 - 📫 You can reach me at **me@thopay.dev** or on Discord at **thom#9999**
 
+- 📝 You can find my current resume [here](https://github.com/thopay/thopay/blob/main/Resume.pdf)
+
 - ⚡ Fun Fact: **I am currently building a second brain with Obsidian**
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thopay&show_icons=true&locale=en&layout=compact" alt="thopay" /></p>
