@@ -21,4 +21,5 @@
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thopay&show_icons=true&locale=en&layout=compact" alt="thopay" /></p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thopay&" alt="thopay" /><img align="center" src="https://github-readme-stats.vercel.app/api?username=thopay&show_icons=true&locale=en" alt="thopay" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thopay&" alt="thopay" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=thopay&show_icons=true&locale=en" alt="thopay" /></p>
