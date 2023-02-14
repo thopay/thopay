@@ -1,4 +1,3 @@
-<p align="center"> <img src="https://user-images.githubusercontent.com/60588709/217727977-d34ad295-c37e-46d1-bc3b-a720ffdd492b.gif" alt="Patrick" height="150"> </p>
 <h1 align="center">👋 Hi there, I'm Thomas</h1>
 <h3 align="center">I'm a full stack developer currently attending Iowa State University</h3>
 
