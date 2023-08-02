@@ -5,15 +5,15 @@
 
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=thopay&no-frame=true&theme=onedark&title=Joined2020,Commits,Repositories,Stars,Followers,Issues" alt="thopay" /></p>
 
-- 👷 I’m currently working on the **TREND Fashion Magazine Blog**
+- 👷 I’m currently working on the **[TREND Fashion Magazine Blog](https://www.trendmagisu.com/)**
 
-- 🌱 I’m currently learning **Web3, Solidity, and ARM Assembly**
+- 🌱 I’m currently learning **Go, Web3, Solidity, and ARM Assembly**
 
 - 👨‍💻 Some of my favoriate projects are available at [thopay.dev](https://thopay.dev/)
 
-- 💬 Please feel free to ask me about **JavaScript, React, UI/UX Design, or my Obsidian vault**
+- 💬 Please feel free to ask me about **JavaScript/TypeScript, React, UI/UX Design, or my Obsidian vault**
 
-- 📫 You can reach me at **me@thopay.dev** or on Discord at **thom#9999**
+- 📫 You can reach me at **me@thopay.dev** or on Discord at **thopay**
 
 - 📝 You can find my current resume [here](https://github.com/thopay/thopay/blob/main/Current%20Resume.pdf)
 
