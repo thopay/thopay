@@ -7,7 +7,7 @@
 
 - 👷 I’m currently working on the **[TREND Fashion Magazine Blog](https://www.trendmagisu.com/)**
 
-- 🌱 I’m currently learning **Go, Web3, Solidity, and ARM Assembly**
+- 🌱 I’m currently learning **Go and Rust**
 
 - 👨‍💻 Some of my favoriate projects are available at [thopay.dev](https://thopay.dev/)
 
